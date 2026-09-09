@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**krishgarg50/krishgarg50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+```
+████████████████████████████████████████████████████████
+█                                                      █
+█  $ node typing-animation.js                         █
+█                                                      █
+█  ► Hi there! I am Krish Garg                         █
+█                                                      █
+████████████████████████████████████████████████████████
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About Me
+
+I'm **Krish Garg**, a passionate developer crafting digital experiences.
+
+### 🛠️ Tech Stack
+- **Languages**: JavaScript, TypeScript, Python
+- **Frontend**: React, Vue, HTML/CSS
+- **Backend**: Node.js, Express
+- **Tools**: Git, Docker, VS Code
+
+### 🎯 What I Do
+- Build beautiful, interactive web applications
+- Create engaging animations and user experiences
+- Solve complex coding challenges
+- Contribute to open-source projects
+
+---
+
+<div align="center">
+
+### Let's Connect! 🤝
+
+[![GitHub](https://img.shields.io/badge/GitHub-krishgarg50-black?style=for-the-badge&logo=github)](https://github.com/krishgarg50)
+
+</div>
