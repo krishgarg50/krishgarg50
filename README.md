@@ -1,41 +1,11 @@
-<div align="center">
+<!-- Animated waving hand SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishgarg50/krishgarg50/main/hand-wave.gif" width="100" alt="Waving Hand" />
+</p>
 
-# Hi there! 👋
-
-```
-████████████████████████████████████████████████████████
-█                                                      █
-█  $ node typing-animation.js                         █
-█                                                      █
-█  ► Hi there! I am Krish Garg                         █
-█                                                      █
-████████████████████████████████████████████████████████
-```
-
-</div>
-
-## About Me
-
-I'm **Krish Garg**, a passionate developer crafting digital experiences.
-
-### 🛠️ Tech Stack
-- **Languages**: JavaScript, TypeScript, Python
-- **Frontend**: React, Vue, HTML/CSS
-- **Backend**: Node.js, Express
-- **Tools**: Git, Docker, VS Code
-
-### 🎯 What I Do
-- Build beautiful, interactive web applications
-- Create engaging animations and user experiences
-- Solve complex coding challenges
-- Contribute to open-source projects
+<!-- Typing effect with shields.io (animated text badge) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3ACABB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Krish!;" />
+</p>
 
 ---
-
-<div align="center">
-
-### Let's Connect! 🤝
-
-[![GitHub](https://img.shields.io/badge/GitHub-krishgarg50-black?style=for-the-badge&logo=github)](https://github.com/krishgarg50)
-
-</div>
